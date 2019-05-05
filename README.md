@@ -1,7 +1,7 @@
 # Video-Dersler
 Hazıradığım Videolu Dersleri Listeliyorum
 <br/>
-<h1>Kali Linux Dersleri</h1>
+<h2>Kali Linux Dersleri</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=SIQbHNdBexI" title="Kali Linux LibreOffice Kurulumu 2018">Kali Linux LibreOffice Kurulumu 2018</a></li>
   <li><a href="https://www.youtube.com/watch?v=RKTEXEt9t94" title="Kali Linux'a Torrent Programı Kurmak (Qbittorrent) 2018">Kali Linux'a Torrent Programı Kurmak (Qbittorrent) 2018</a></li>
@@ -14,7 +14,7 @@ Hazıradığım Videolu Dersleri Listeliyorum
   <li><a href="https://www.youtube.com/watch?v=65a5yPExXA8" title="Django Deploy Etmek - Django Yayına Almak 2019">Django Deploy Etmek - Django Yayına Almak 2019</a></li>
 </ul>
 <hr/>
-<h1>Windows Dersleri</h1>
+<h2>Windows Dersleri</h2>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=vcHEqnZAXZw" title="Microsoft Office Excel Toplama İşlemi 2019">Microsoft Office Excel Toplama İşlemi 2019</a></li>
     <li><a href="https://www.youtube.com/watch?v=MwjR1BY5EjA" title="Windows 10'da Gizli Dosya Oluşturma ve Gizli Dosya Gösterme">Windows 10'da Gizli Dosya Oluşturma ve Gizli Dosya Gösterme</a></li>
